@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Hello there! I'm Vadym Yefimchuk</h1>
+<h1 align="left">:wave: Hello there! I'm Vadym Y</h1>
 
 <br>
 
