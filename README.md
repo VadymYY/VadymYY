@@ -151,12 +151,6 @@ FullStack Developer🧊
       </a>
       <br>Angular
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="36" height="36" alt="RxJs" />
-      </a>
-      <br>RxJs
-    </td>
  <td align="center" width="110" height="90">
       <a href="#stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
@@ -164,10 +158,34 @@ FullStack Developer🧊
       <br>Redux
     </td>
      <td align="center" width="110" height="90">
+      <a href="#stack" >
+        <img src="https://shkarina.me/Recharts.png" width="36" height="36" alt="Recharts" />
+      </a>
+      <br>Recharts
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#stack" >
+        <img src="https://avatars.githubusercontent.com/u/16939337?v=4" width="36" height="36" alt="Tiptap" />
+      </a>
+      <br>Tiptap
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="36" height="36" alt="RxJs" />
+      </a>
+      <br>RxJs
+    </td>
+     <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
       </a>
       <br>Material UI
+    </td>
+ <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/antdesign/antdesign-original-wordmark.svg" width="36" height="36" alt="Antd" />
+      </a>
+      <br>Antd
     </td>
    <td align="center" width="110" height="90">
       <a href="#stack">
